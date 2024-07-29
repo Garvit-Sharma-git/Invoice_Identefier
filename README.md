@@ -34,7 +34,7 @@ This shows the Similarity Score of the Input Invoice file from the already avail
 1. Clone the Repository:
    ```bash
    git clone https://github.com/Garvit-Sharma-git/Invoice_Identefier.git
-   cd 
+   cd SimilarInvoice.py
 
 2. Install the required libraries:
    ```bash
